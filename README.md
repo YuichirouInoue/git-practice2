@@ -1,1 +1,4 @@
 hoge
+kuso
+fuck
+majikuso
